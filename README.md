@@ -36,3 +36,7 @@ precipitation, day of week, season, hour of the day, etc. can affect the rental 
 the two-year historical log corresponding to years 2011 and 2012 from Capital Bikeshare system, Washington D.C., USA which is 
 publicly available in http://capitalbikeshare.com/system-data. We aggregated the data on two hourly and daily basis and then 
 extracted and added the corresponding weather and seasonal information. Weather information are extracted from http://www.freemeteo.com. 
+
+#4. Install Required Library
+```
+pip install -r requirements.txt
