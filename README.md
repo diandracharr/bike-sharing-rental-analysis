@@ -41,7 +41,7 @@ extracted and added the corresponding weather and seasonal information. Weather 
 Ensure that the essential Python libraries are installed before launching the dashboard. You can install them using the pip command and provided `requirements.txt`.
 ```
 pip install -r requirements.txt
-
+```
 # 5. Run Streamlit App
 ``
 streamlit run dashboard.py
