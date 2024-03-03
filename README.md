@@ -14,9 +14,9 @@ events in the city could be detected via monitoring these data.
 
 # 2. Project Work Cycle
 Data Wrangling:
-- Gathering data
-- Assessing data
-- Cleaning data
++ Gathering data
++ Assessing data
++ Cleaning data
 Exploratory Data Analysis:
 - Defined business questions for data exploration
 - Create Data exploration
