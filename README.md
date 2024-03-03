@@ -18,14 +18,14 @@ Data Wrangling:
 + Assessing data
 + Cleaning data
 Exploratory Data Analysis:
-- Defined business questions for data exploration
-- Create Data exploration
++ Defined business questions for data exploration
++ Create Data exploration
 Data Visualization:
-- Create Data Visualization that answer business questions
++ Create Data Visualization that answer business questions
 Dashboard:
-- Set up the DataFrame which will be used
-- Make filter components on the dashboard
-- Complete the dashboard with various data visualizations
++ Set up the DataFrame which will be used
++ Make filter components on the dashboard
++ Complete the dashboard with various data visualizations
 
 # 3. Data Set
 Bike-sharing rental process is highly correlated to the environmental and seasonal settings. For instance, weather conditions,
