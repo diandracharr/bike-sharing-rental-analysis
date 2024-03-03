@@ -37,6 +37,7 @@ the two-year historical log corresponding to years 2011 and 2012 from Capital Bi
 publicly available in http://capitalbikeshare.com/system-data. We aggregated the data on two hourly and daily basis and then 
 extracted and added the corresponding weather and seasonal information. Weather information are extracted from http://www.freemeteo.com. 
 
-#4. Install Required Library
+# 4. Install Required Library
+Ensure that the essential Python libraries are installed before launching the dashboard. You can install them using the pip command and provided `requirements.txt`.
 ```
 pip install -r requirements.txt
