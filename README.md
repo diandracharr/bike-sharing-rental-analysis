@@ -44,5 +44,5 @@ pip install -r requirements.txt
 ```
 # 5. Run Streamlit App
 ``
-streamlit run dashboard.py
+python -m streamlit run bike-sharing-rental-analysis/dashboard/bike_share_dashboard.py
 ``
